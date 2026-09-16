@@ -90,13 +90,13 @@ It would also allow us to evaluate how much control and determinism can be achie
 Before considering an implementation in Uyuni, the following exploratory work could be done:
 
 * Identify concrete MCP use cases where a generated UI may provide value over Markdown or a predefined UI.
-* Build small prototypes during Learning Days or similar exploration time.
+* Build small prototypes.
 * Compare a component catalog with simpler representations such as Markdown.
 * Evaluate existing GenUI frameworks and MCP UI mechanisms.
 * Measure latency, token usage, and invalid component descriptions.
 * Investigate how dynamically composed interfaces could be tested.
 
-A larger prototype could later be considered for a Hack Week if the initial experiments justify further work.
+A larger prototype could later be considered if the initial experiments justify further work.
 
 # Drawbacks
 
