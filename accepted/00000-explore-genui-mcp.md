@@ -132,7 +132,7 @@ It does not, however, provide a specific UI for arbitrary combinations of MCP to
 
 ## Generated HTML
 
-The LLM can generate HTML directly from the tool results.
+The agent can generate HTML directly from the tool results. LLM is not involved and is very deterministic, but won't work well for unknown scenarios were multiple tools are combined.
 
 This was one of the approaches explored in the undergraduate thesis and provides a useful reference point for comparison.
 
